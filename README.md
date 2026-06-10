@@ -1,5 +1,8 @@
 # Equipe_Aldebaran
 
+Luiz Otávio Brito Freixo - RM 569977 
+Marcelo Francisco Josafá Ribeiro Martins - RM 573905 
+
 # Objetivo do projeto
 O objetivo principal deste projeto consiste no desenvolvimento e simulação de um sistema modular de segurança de dados para uma cabine espacial, unificando duas camadas complementares de inteligência computacional: 
 
